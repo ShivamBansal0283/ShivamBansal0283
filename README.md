@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="hi" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=10000&color=F58A07&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Shivam+Bansal" alt="Typing SVG" />
 </p>
 
