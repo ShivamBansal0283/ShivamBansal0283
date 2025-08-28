@@ -4,7 +4,7 @@
 </h2>
 
 <p align="center">
-  Third-year IT Undergrad @ MIT Manipal &bull; Full-Stack Developer &bull; DSA Enthusiast &bull; Database Engineer
+  Final-year IT Undergrad @ MIT Manipal &bull; Full-Stack Developer &bull; DSA Enthusiast &bull; Database Engineer
 </p>
 
 ---
